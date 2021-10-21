@@ -1,7 +1,8 @@
 
 ## Background 
 
-You have been hired by the tax authority of the City of Boston to asses Tax Assessments. Your task is to create a model to predict the av_total (assessed value) of properties in the greater Boston area. 
+You have been hired by the tax authority of the City of Boston to asses Tax Assessments. 
+Your task is to create a model to predict the av_total (assessed value) of properties in the greater Boston area. 
 
 ## Libraries
 
